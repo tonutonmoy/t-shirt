@@ -8,7 +8,7 @@ const Aunty = ({ring}) => {
 
             <section className='d-flex gap-3'>
                 <Cusin>Abir</Cusin>
-                <Cusin ring={ring} hasFriend={true}>Nibir</Cusin>
+                <Cusin ring={ring} hasFriend={true}> Nibir</Cusin>
             </section>
         </div>
     );
